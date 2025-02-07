@@ -1,4 +1,4 @@
-# Covid-19-Vaccinations-and-Deaths-Analysis-Using-MS-SQL-
+# Covid-19-Vaccinations-and-Deaths-Analysis-Using-MS-SQL
 
 The dataset can be seen at https://www.kaggle.com/datasets/joebeachcapital/coronavirus-covid-19-cases-daily-updates
 The files I used for my project 
